@@ -3,6 +3,7 @@ print(collection[:],
 collection[3:5],
 collection[-2:-5],
 )
+#added hiii
 res = 40 in collection
 print(res)
 print(res = len(collection))
