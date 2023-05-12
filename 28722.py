@@ -3,6 +3,7 @@ print(collection[:],
 collection[3:5],
 collection[-2:-5],
 )
+#added hiii
 res = 40 in collection
 print(res)
 print(res = len(collection))
@@ -11,7 +12,7 @@ print(res = min(collection))
 print(res = type(collection))
 collection.append(500)
 print(collection)
-collection.extend([300,400])
+collection.extend([300,400])#
 print(collection)
 collection.insert(4,600)
 print(collection)
