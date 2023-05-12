@@ -12,7 +12,7 @@ print(res = min(collection))
 print(res = type(collection))
 collection.append(500)
 print(collection)
-collection.extend([300,400])#
+collection.extend([300,400])##
 print(collection)
 collection.insert(4,600)
 print(collection)
