@@ -15,7 +15,7 @@ print(collection)
 collection.extend([300,400])##
 print(collection)
 collection.insert(4,600)
-print(collection)
+print(collection)#
 del collection[5]
 print(collection)
 res = collection.pop(1)
